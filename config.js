@@ -103,7 +103,7 @@ const CONFIG = {
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	/* firstlistsContainer: [
+	firstlistsContainer: [
 		{
 			icon: 'music',
 			id: '1',
@@ -161,7 +161,7 @@ const CONFIG = {
 					link: 'https://www.pocket.com',
 				},
 			],
-		}, */
+		},
 		{
 			icon: 'github',
 			id: '1',
